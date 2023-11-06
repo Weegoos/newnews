@@ -184,9 +184,13 @@ login_or_profile.onclick = function (){
    if (status_local == null ){
       console.log(88);
       window.location = "file:///C:/Users/%D0%91%D0%B0%D1%82%D1%8B%D1%80/Desktop/Web%20Tech%20Aitu/registration/reg.html"
+      window.location = "https://weegoos.github.io/newnews/registration/reg.html"
+    
       // https://www.instagram.com/new_newsofficial/
    }else {
-      window.location = "file:///C:/Users/%D0%91%D0%B0%D1%82%D1%8B%D1%80/Desktop/Web%20Tech%20Aitu/profile/profile_page.html" 
+      window.location = "file:///C:/Users/%D0%91%D0%B0%D1%82%D1%8B%D1%80/Desktop/Web%20Tech%20Aitu/profile/profile_page.html"
+      window.location = "https://weegoos.github.io/newnews/profile/profile_page.html" 
+    
    }
 }
 
